@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <tittle>Камісато Аяка 
+  <tittle>Пропоную зайти!
     </tittle>
 </head>
   <header style = "background: White">
