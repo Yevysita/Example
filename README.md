@@ -1,8 +1,8 @@
 <html>
 
 <head>
-  <title>Камісато Аяка 
-    </title>
+  <tittle>Камісато Аяка 
+    </tittle>
 </head>
   <header style = "background: White">
     <a href="https://genshin.hoyoverse.com/ru/character/inazuma?char=0" style="color:purple">Більше</a>
