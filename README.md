@@ -7,12 +7,12 @@
   <header style = "background: lightyellow">
     <a href="https://genshin.hoyoverse.com/ru/news" style="color:purple">Новини</a>
     <a href="https://genshin.hoyoverse.com/ru/home" style="color:purple">Реєстрація</a>
-    <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/kamisato-ayaka/tray_large.png?46f39ca659e158846f9ae229089b310a" height="100" />
+    <img src="https://media.tenor.com/rLsLcDE_tfcAAAAi/kamisato-ayaka-genshin-impact.gif" height="100" />
   </header>
   <main style = "background-color: Lightblue">
     <h1 style="font-size:50px;text-align:center">Камісато Аяка<br/>
     <h2 style="font-size:40px;text-align:center">Вигаданий персонаж</h2>
-    <img src="https://assetsio.gnwcdn.com/genshin-impact-ayaka.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp" height="350px"/></h1>
+    <img src="https://assetsio.gnwcdn.com/genshin-impact-ayaka.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" height="350px"/></h1>
 
 <b>Камісато Аяка</b><p style="font-size:20px">
     Це видатна і майстерна воїнка з відомої гри "Genshin Impact". Її ім'я вартою означає "ясне світло", і саме таке враження вона залишає усім навколо своєю силою, гідністю та розумом.</p>
