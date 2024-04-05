@@ -1,14 +1,13 @@
 <html>
 
 <head>
-  <tittle>Камісато Аяка
+  <tittle>Камісато Аяка 
     </tittle>
 </head>
-  <header style = "background: White">
-    <a href="https://genshin.hoyoverse.com/ru/character/inazuma?char=0" style="color:purple">Більше</a>
+  <header style = "background: lightyellow">
     <a href="https://genshin.hoyoverse.com/ru/news" style="color:purple">Новини</a>
     <a href="https://genshin.hoyoverse.com/ru/home" style="color:purple">Реєстрація</a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jH9zwVowQIX_7jcdCFF7pG_v3QV6mXct-PtnTT2Uv1HWUVqMDC4ceI4ornG4_gHANwM&usqp=CAU" height="100" />
+    <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/kamisato-ayaka/tray_large.png?46f39ca659e158846f9ae229089b310a" height="100" />
   </header>
   <main style = "background-color: Lightblue">
     <h1 style="font-size:50px;text-align:center">Камісато Аяка<br/>
